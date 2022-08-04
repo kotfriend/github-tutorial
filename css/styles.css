@@ -1,4 +1,8 @@
-body {
-    background-color: #fff;
-    color: aliceblue;
+.link-list:visited {
+    background-color: blueviolet;
+    color: brown;
+}
+
+.desc::selection {
+    color: blue;
 }
