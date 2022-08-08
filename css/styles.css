@@ -1,8 +1,11 @@
-.link-list:visited {
-    background-color: blueviolet;
-    color: brown;
+pre {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    color: #2a2a2a;
+    font-size: 16px;
 }
 
-.desc::selection {
-    color: blue;
+pre::first-letter {
+    font-family: 'Tahoma', serif;
+    font-size: 32px;
+    color: #f44336;
 }
