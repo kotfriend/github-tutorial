@@ -1,0 +1,15 @@
+body {
+  background-color: tomato;
+}
+
+@media (orientation: landscape) {
+  body {
+    background-color: teal;
+  }
+}
+
+@media (orientation: portrait) {
+  body {
+    background-color: tomato;
+  }
+}
